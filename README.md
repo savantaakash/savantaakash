@@ -6,8 +6,7 @@
 
 
 
-### Google Playstore Apps Deployed into Google Play
-[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/developer?id=AakashAppSolutions)
+
 
 
 
@@ -48,19 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savantaakash&show_icons=true&locale=en" alt="savantaakash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savantaakash&" alt="savantaakash" /></p>
-### Hi there 👋
 
-<!--
-**savantaakash/savantaakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/developer?id=AakashAppSolutions)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
