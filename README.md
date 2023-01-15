@@ -6,6 +6,9 @@
 
 
 
+### Google Playstore Apps Deployed into Google Play
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/developer?id=AakashAppSolutions)
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -31,14 +34,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aakashsava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakashsava/" height="30" width="40" /></a>
-
-
 <a href="https://medium.com/@savantaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@savantaakash" height="30" width="40" /></a>
-
-
-
 
 <a href="https://www.youtube.com/c/https://www.youtube.com/@techiewithaakash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techiewithaakash/" height="30" width="40" /></a>
 </p>
