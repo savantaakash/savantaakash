@@ -24,6 +24,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+<a href="https://play.google.com/store/apps/developer?id=AakashAppSolutions" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="@AakashAppsolutions" height="50" width="40" /></a>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -32,8 +37,6 @@
 
 <a href="https://medium.com/@savantaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@savantaakash" height="30" width="40" /></a>
 
-
-<a href="https://play.google.com/store/apps/developer?id=AakashAppSolutions" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="@AakashAppsolutions" height="30" width="40" /></a>
 
 
 
