@@ -1,8 +1,8 @@
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://aakashappsolutions.com)
+[![MasterHead](https://www.canva.com/design/DAFha45-U94/YvTSM_5QaTcsXM31yP7bhA/watch?utm_content=DAFha45-U94&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://aakashappsolutions.com)
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">A passionate Full Stack Mobile developer & Data Science Enthusiast from India</h3>
+<h3 align="center">I'm Data Scientist</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
