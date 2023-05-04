@@ -1,6 +1,4 @@
 
-
-[![MasterHead](https://www.canva.com/design/DAFha45-U94/YvTSM_5QaTcsXM31yP7bhA/watch?utm_content=DAFha45-U94&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://aakashappsolutions.com)
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">I'm Data Scientist</h3>
 
